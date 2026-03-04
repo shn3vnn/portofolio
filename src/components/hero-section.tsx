@@ -12,7 +12,7 @@ export function HeroSection() {
           <div className="lg:col-span-7 order-2 lg:order-1">
             <div className="space-y-8">
               <div className="space-y-4">
-                <p className="text-blue-400 font-medium text-lg tracking-wide">Hello, I'm</p>
+                <p className="text-blue-400 font-medium text-lg tracking-wide">Hello, I&apos;m</p>
                 <h1 className="text-6xl lg:text-8xl font-bold text-white leading-tight">
                   Al Evan
                 </h1>
