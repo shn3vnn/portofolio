@@ -80,7 +80,7 @@ export function HeroSection() {
               <div className="absolute inset-0 bg-gradient-to-br from-blue-500/20 to-purple-600/20 rounded-3xl blur-2xl transform rotate-6"></div>
               <div className="relative bg-gradient-to-br from-gray-800 to-gray-900 p-1 rounded-3xl">
                 <img
-                  src="/fotosaya.JPG"
+                  src="/fotosaya.jpg"
                   alt="Al Evan Diamantoro"
                   className="w-full h-auto rounded-3xl shadow-2xl"
                 />
